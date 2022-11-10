@@ -6,4 +6,4 @@ HTML5 CSS3 and JS
 
 <h2>Screen Gif</h2>
 
-![]('js.gif')
+![](js.gif)
